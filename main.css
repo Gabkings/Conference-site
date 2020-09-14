@@ -1,0 +1,92 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62%;
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  font-weight: 300;
+  line-height: 1.6;
+  width: 100%;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.color-orange {
+  color: #ec5242;
+}
+
+.color-gray {
+  color: #272a31;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.underline-red:hover {
+  text-decoration: underline;
+  text-decoration-color: #ec5242;
+}
+
+.a-tag,
+.a-tag:hover {
+  color: inherit;
+}
+
+.top-nav {
+  font-size: 1.3rem;
+  height: 2.5rem;
+  background-color: #272a31;
+}
+
+.bot-nav {
+  height: 6rem;
+  font-size: 1.5rem;
+  top: 0;
+  z-index: 100;
+}
+
+.nav-logo {
+  height: 4rem;
+}
+
+.cc {
+  border: 2px solid #ec5242;
+}
+
+.bars {
+  font-size: 3.5rem;
+}
+
+.menu {
+  position: absolute;
+  list-style: none;
+  font-size: 1.5rem;
+  display: none;
+  width: 10rem;
+  right: 0;
+}
+
+.menu-cont:hover .menu {
+  display: block;
+  background-color: #ec5242;
+}
