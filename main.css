@@ -231,3 +231,50 @@ body {
   }
 
 /* css syles for main section */
+
+/* Footer section styles */
+
+.footer {
+    padding: 6vw;
+  }
+  
+  .footer-img {
+    height: 5vw;
+  }
+  
+  .footer-text {
+    width: 50%;
+  }
+
+
+
+@media only screen and (max-width: 768px) {
+    .main-title {
+      font-size: 3rem;
+      line-height: 3rem;
+    }
+  
+    .hello-title {
+      font-size: 2rem;
+    }
+  
+    .little-text-div {
+      font-size: 1.2rem;
+    }
+  
+    .date-div {
+      font-size: 1.5rem;
+    }
+  
+    .date-bold {
+      font-size: 1.6rem;
+    }
+  
+    .feature-item {
+      padding-left: -3rem;
+    }
+  
+    .footer-img {
+      height: 6rem;
+    }
+  }
