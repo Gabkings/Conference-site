@@ -58,6 +58,12 @@ The below screenshots shows how the site looks on mobile screens versions
 5 Open dev tools and inspect the site responsiveness
 #### Any background context you want to provide?
 You should be familiar with HTML and CSS and Bootstrap 4
+#### Authors
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/Gabkings)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabriel-gitonga-b5a611183/)
 #### Acknowledgments
 - Microverse
 - W3schools
