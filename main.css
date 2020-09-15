@@ -94,7 +94,7 @@ body {
 /* css syles for main section */
 
 .main-section {
-  background-color: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)) url(../img/main-bg.png);
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(../img/main-bg.png);
 }
 
 .main-section-item {
@@ -129,7 +129,7 @@ body {
 
 .main-program {
   height: auto;
-  background-image: url(../img/dark-bg.jpg);
+  background: url(../img/dark-bg.jpg);
   background-size: 20rem;
 }
 

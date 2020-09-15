@@ -92,7 +92,7 @@ body {
 }
 
 .main-section {
-  background: url(../img/main-bg.png);
+  background: url("../img/main-bg.png");
 }
 
 .main-section-item {
@@ -128,7 +128,7 @@ body {
 .middle-text {
   font-size: 1.4rem;
   margin: auto 5vw;
-  color: #fff;
+  color: rgb(82, 75, 75);
 }
 
 .middle-logo {
